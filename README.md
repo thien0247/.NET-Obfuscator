@@ -92,7 +92,11 @@ As you can see, the obfuscated code is much harder to understand and follow, mak
 * [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly 
 * [obfuscatus](https://github.com/stschake/obfuscatus) - a .NET obfuscator based on mono cecil
 * [Obfuscord](https://github.com/JReverse/Obfuscord) - Obfuscates A file Through Discord as a Bot using Discord.Net Api
+
+  #### Good
 * [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
+* Obfuscar Tools for Visual Studio - https://marketplace.visualstudio.com/items?itemName=AvinabMalla.obfuscarvs
+* 
 * [Obfuscator-Demonstration](https://github.com/gigajew/Obfuscator-Demonstration) -  A simple obfuscator demonstration using dnlib
 * [OctopusObfuscator](https://github.com/Alxs009/OctopusObfuscator) - Basic obfuscator for .NET
 * [Panda-Obfuscator](https://github.com/barotyson/Panda-Obfuscator) - PandaObfuscator an simple Obfuscator, free, OpenSource for .Net Applications 
